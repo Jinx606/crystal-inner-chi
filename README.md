@@ -6,7 +6,7 @@ Hello there! 👋 Welcome to my GitHub repository, where I showcase my fun and o
 I'm Jacky, a creative mind with a penchant for all things quirky and unconventional. This GitHub repository is the home of my eccentric website, where I love to experiment with unique ideas and share them with the world.
 
 ## The Quirky Website
-[**Explore My Quirky Website**](link_to_website)
+[**Explore My Quirky Website**]([link_to_website](https://jinx606.github.io/crystal-inner-chi/))
 
 On my website, you'll find a delightful collection of peculiar and whimsical content. I enjoy pushing the boundaries of creativity and humor, so expect the unexpected! From quirky facts and amusing anecdotes to unusual visuals and interactive experiences, my website is a playground of eccentricity.
 
